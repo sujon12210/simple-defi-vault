@@ -1,0 +1,8 @@
+{
+  "name": "simple-defi-vault",
+  "version": "1.0.0",
+  "description": "ERC-4626 Tokenized Vault implementation",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
